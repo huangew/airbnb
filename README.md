@@ -1,4 +1,5 @@
 # Airbnb Listing Practice  
+Deployed at: https://huangew.github.io/airbnb/ 
 Author: Emily Huang   
 Goal: Create a simple website that lists the first 50 Airbnb listings from a json file.  
 
